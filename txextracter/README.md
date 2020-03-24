@@ -1,5 +1,5 @@
 # Txdownload
 It can download the Tx information for the day via command line below:
 ```
-python Txdownload.py
+python Txdownload.py [--url]:is Tx download url(default is http://www.taifex.com.tw/cht/3/futPrevious30DaysSalesData)
 ```
