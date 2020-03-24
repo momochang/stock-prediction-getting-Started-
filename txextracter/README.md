@@ -31,3 +31,4 @@ That the execution time was be below:
 ```
 Use time:  1.847367525100708 s (ex. Daily_2020_02_11)
 ```
+and the result stored in folder that named data
