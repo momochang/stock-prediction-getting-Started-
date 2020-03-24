@@ -1,2 +1,2 @@
 # Txdownload
-Use 'python Txdownload.py'
+Use `python Txdownload.py`
