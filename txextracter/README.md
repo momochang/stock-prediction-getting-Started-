@@ -1,7 +1,8 @@
 # Txdownload
 It can download the Tx information for the day via command line in terminal below:
 ```
-python Txdownload.py [--url]: is Tx download url(default is http://www.taifex.com.tw/cht/3/futPrevious30DaysSalesData)
+python Txdownload.py 
+      [--url]: is Tx download url(default is http://www.taifex.com.tw/cht/3/futPrevious30DaysSalesData)
 ```
 Or you can use command line in terminal below download the Tx information :
 ```
@@ -25,4 +26,8 @@ python Txtransfer.py
 It can transfer the Tx information to open、high、low、close and volume features via command line in terminal below:
 ```
 python Txtransfer.py --dataname=Daily_2020_02_11 --encode=big5
+```
+That the execution time was be below:
+```
+Use time:  1.847367525100708 s (ex. Daily_2020_02_11)
 ```
